@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research Project Memory"
+  short_description: "Maintain durable context for research projects"
+  default_prompt: "Use $research-project-memory to initialize and maintain AGENTS.md and PROJECT_MEMORY.md for this research project."
+policy:
+  allow_implicit_invocation: true
